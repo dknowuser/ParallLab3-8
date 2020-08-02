@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\Labs\parall\lab3-8\lab3-8\Source.cpp(15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\Labs\parall\lab3-8\lab3-8\Source.cpp(54): warning C4804: *=: небезопасное использование типа "bool" в операции
+  lab3-8.vcxproj -> E:\Labs\parall\lab3-8\lab3-8\Debug\lab3-8.exe
